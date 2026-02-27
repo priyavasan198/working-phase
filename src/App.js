@@ -11,7 +11,7 @@ function App(){
         <div>
             
             <Sample test={arr}/>
-            
+            hello
         </div>
     );
 }
